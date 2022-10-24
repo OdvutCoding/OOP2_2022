@@ -1,0 +1,14 @@
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 LAB1 Final\OOP2 LAB1 Final\bin\Debug\netcoreapp3.1\OOP2 LAB1 Final.exe
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 LAB1 Final\OOP2 LAB1 Final\bin\Debug\netcoreapp3.1\OOP2 LAB1 Final.deps.json
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 LAB1 Final\OOP2 LAB1 Final\bin\Debug\netcoreapp3.1\OOP2 LAB1 Final.runtimeconfig.json
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 LAB1 Final\OOP2 LAB1 Final\bin\Debug\netcoreapp3.1\OOP2 LAB1 Final.runtimeconfig.dev.json
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 LAB1 Final\OOP2 LAB1 Final\bin\Debug\netcoreapp3.1\OOP2 LAB1 Final.dll
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 LAB1 Final\OOP2 LAB1 Final\bin\Debug\netcoreapp3.1\OOP2 LAB1 Final.pdb
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 LAB1 Final\OOP2 LAB1 Final\obj\Debug\netcoreapp3.1\OOP2 LAB1 Final.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 LAB1 Final\OOP2 LAB1 Final\obj\Debug\netcoreapp3.1\OOP2 LAB1 Final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 LAB1 Final\OOP2 LAB1 Final\obj\Debug\netcoreapp3.1\OOP2 LAB1 Final.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 LAB1 Final\OOP2 LAB1 Final\obj\Debug\netcoreapp3.1\OOP2 LAB1 Final.AssemblyInfo.cs
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 LAB1 Final\OOP2 LAB1 Final\obj\Debug\netcoreapp3.1\OOP2 LAB1 Final.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 LAB1 Final\OOP2 LAB1 Final\obj\Debug\netcoreapp3.1\OOP2 LAB1 Final.dll
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 LAB1 Final\OOP2 LAB1 Final\obj\Debug\netcoreapp3.1\OOP2 LAB1 Final.pdb
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 LAB1 Final\OOP2 LAB1 Final\obj\Debug\netcoreapp3.1\OOP2 LAB1 Final.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Mid Prep Encapsulation\Mid Prep Encapsulation\obj\Debug\netcoreapp3.1\Mid Prep Encapsulation.csproj.AssemblyReference.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Mid Prep Encapsulation\Mid Prep Encapsulation\obj\Debug\netcoreapp3.1\Mid Prep Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Mid Prep Encapsulation\Mid Prep Encapsulation\obj\Debug\netcoreapp3.1\Mid Prep Encapsulation.AssemblyInfoInputs.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Mid Prep Encapsulation\Mid Prep Encapsulation\obj\Debug\netcoreapp3.1\Mid Prep Encapsulation.AssemblyInfo.cs
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Mid Prep Encapsulation\Mid Prep Encapsulation\obj\Debug\netcoreapp3.1\Mid Prep Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Mid Prep Encapsulation\Mid Prep Encapsulation\bin\Debug\netcoreapp3.1\Mid Prep Encapsulation.exe
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Mid Prep Encapsulation\Mid Prep Encapsulation\bin\Debug\netcoreapp3.1\Mid Prep Encapsulation.deps.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Mid Prep Encapsulation\Mid Prep Encapsulation\bin\Debug\netcoreapp3.1\Mid Prep Encapsulation.runtimeconfig.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Mid Prep Encapsulation\Mid Prep Encapsulation\bin\Debug\netcoreapp3.1\Mid Prep Encapsulation.runtimeconfig.dev.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Mid Prep Encapsulation\Mid Prep Encapsulation\bin\Debug\netcoreapp3.1\Mid Prep Encapsulation.dll
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Mid Prep Encapsulation\Mid Prep Encapsulation\bin\Debug\netcoreapp3.1\Mid Prep Encapsulation.pdb
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Mid Prep Encapsulation\Mid Prep Encapsulation\obj\Debug\netcoreapp3.1\Mid Prep Encapsulation.dll
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Mid Prep Encapsulation\Mid Prep Encapsulation\obj\Debug\netcoreapp3.1\Mid Prep Encapsulation.pdb
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Mid Prep Encapsulation\Mid Prep Encapsulation\obj\Debug\netcoreapp3.1\Mid Prep Encapsulation.genruntimeconfig.cache

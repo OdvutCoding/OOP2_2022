@@ -1,0 +1,13 @@
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Constructor Overload\Brocode Constructor Overload\bin\Debug\netcoreapp3.1\Brocode Constructor Overload.exe
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Constructor Overload\Brocode Constructor Overload\bin\Debug\netcoreapp3.1\Brocode Constructor Overload.deps.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Constructor Overload\Brocode Constructor Overload\bin\Debug\netcoreapp3.1\Brocode Constructor Overload.runtimeconfig.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Constructor Overload\Brocode Constructor Overload\bin\Debug\netcoreapp3.1\Brocode Constructor Overload.runtimeconfig.dev.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Constructor Overload\Brocode Constructor Overload\bin\Debug\netcoreapp3.1\Brocode Constructor Overload.dll
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Constructor Overload\Brocode Constructor Overload\bin\Debug\netcoreapp3.1\Brocode Constructor Overload.pdb
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Constructor Overload\Brocode Constructor Overload\obj\Debug\netcoreapp3.1\Brocode Constructor Overload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Constructor Overload\Brocode Constructor Overload\obj\Debug\netcoreapp3.1\Brocode Constructor Overload.AssemblyInfoInputs.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Constructor Overload\Brocode Constructor Overload\obj\Debug\netcoreapp3.1\Brocode Constructor Overload.AssemblyInfo.cs
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Constructor Overload\Brocode Constructor Overload\obj\Debug\netcoreapp3.1\Brocode Constructor Overload.csproj.CoreCompileInputs.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Constructor Overload\Brocode Constructor Overload\obj\Debug\netcoreapp3.1\Brocode Constructor Overload.dll
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Constructor Overload\Brocode Constructor Overload\obj\Debug\netcoreapp3.1\Brocode Constructor Overload.pdb
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Constructor Overload\Brocode Constructor Overload\obj\Debug\netcoreapp3.1\Brocode Constructor Overload.genruntimeconfig.cache

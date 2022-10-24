@@ -1,0 +1,14 @@
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Math Class\Brocode Math Class\bin\Debug\netcoreapp3.1\Brocode Math Class.exe
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Math Class\Brocode Math Class\bin\Debug\netcoreapp3.1\Brocode Math Class.deps.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Math Class\Brocode Math Class\bin\Debug\netcoreapp3.1\Brocode Math Class.runtimeconfig.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Math Class\Brocode Math Class\bin\Debug\netcoreapp3.1\Brocode Math Class.runtimeconfig.dev.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Math Class\Brocode Math Class\bin\Debug\netcoreapp3.1\Brocode Math Class.dll
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Math Class\Brocode Math Class\bin\Debug\netcoreapp3.1\Brocode Math Class.pdb
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Math Class\Brocode Math Class\obj\Debug\netcoreapp3.1\Brocode Math Class.csproj.AssemblyReference.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Math Class\Brocode Math Class\obj\Debug\netcoreapp3.1\Brocode Math Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Math Class\Brocode Math Class\obj\Debug\netcoreapp3.1\Brocode Math Class.AssemblyInfoInputs.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Math Class\Brocode Math Class\obj\Debug\netcoreapp3.1\Brocode Math Class.AssemblyInfo.cs
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Math Class\Brocode Math Class\obj\Debug\netcoreapp3.1\Brocode Math Class.csproj.CoreCompileInputs.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Math Class\Brocode Math Class\obj\Debug\netcoreapp3.1\Brocode Math Class.dll
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Math Class\Brocode Math Class\obj\Debug\netcoreapp3.1\Brocode Math Class.pdb
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Math Class\Brocode Math Class\obj\Debug\netcoreapp3.1\Brocode Math Class.genruntimeconfig.cache

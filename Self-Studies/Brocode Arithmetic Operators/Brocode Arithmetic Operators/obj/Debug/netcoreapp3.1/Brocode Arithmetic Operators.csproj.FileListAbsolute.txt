@@ -1,0 +1,14 @@
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Arithmetic Operators\Brocode Arithmetic Operators\bin\Debug\netcoreapp3.1\Brocode Arithmetic Operators.exe
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Arithmetic Operators\Brocode Arithmetic Operators\bin\Debug\netcoreapp3.1\Brocode Arithmetic Operators.deps.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Arithmetic Operators\Brocode Arithmetic Operators\bin\Debug\netcoreapp3.1\Brocode Arithmetic Operators.runtimeconfig.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Arithmetic Operators\Brocode Arithmetic Operators\bin\Debug\netcoreapp3.1\Brocode Arithmetic Operators.runtimeconfig.dev.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Arithmetic Operators\Brocode Arithmetic Operators\bin\Debug\netcoreapp3.1\Brocode Arithmetic Operators.dll
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Arithmetic Operators\Brocode Arithmetic Operators\bin\Debug\netcoreapp3.1\Brocode Arithmetic Operators.pdb
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Arithmetic Operators\Brocode Arithmetic Operators\obj\Debug\netcoreapp3.1\Brocode Arithmetic Operators.csproj.AssemblyReference.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Arithmetic Operators\Brocode Arithmetic Operators\obj\Debug\netcoreapp3.1\Brocode Arithmetic Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Arithmetic Operators\Brocode Arithmetic Operators\obj\Debug\netcoreapp3.1\Brocode Arithmetic Operators.AssemblyInfoInputs.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Arithmetic Operators\Brocode Arithmetic Operators\obj\Debug\netcoreapp3.1\Brocode Arithmetic Operators.AssemblyInfo.cs
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Arithmetic Operators\Brocode Arithmetic Operators\obj\Debug\netcoreapp3.1\Brocode Arithmetic Operators.csproj.CoreCompileInputs.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Arithmetic Operators\Brocode Arithmetic Operators\obj\Debug\netcoreapp3.1\Brocode Arithmetic Operators.dll
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Arithmetic Operators\Brocode Arithmetic Operators\obj\Debug\netcoreapp3.1\Brocode Arithmetic Operators.pdb
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Arithmetic Operators\Brocode Arithmetic Operators\obj\Debug\netcoreapp3.1\Brocode Arithmetic Operators.genruntimeconfig.cache

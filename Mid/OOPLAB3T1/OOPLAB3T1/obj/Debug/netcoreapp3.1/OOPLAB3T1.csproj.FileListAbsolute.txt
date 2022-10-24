@@ -1,0 +1,14 @@
+C:\Users\DELL\Documents\GitHub\LabPractices\OOPLAB3T1\OOPLAB3T1\obj\Debug\netcoreapp3.1\OOPLAB3T1.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\LabPractices\OOPLAB3T1\OOPLAB3T1\obj\Debug\netcoreapp3.1\OOPLAB3T1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\GitHub\LabPractices\OOPLAB3T1\OOPLAB3T1\obj\Debug\netcoreapp3.1\OOPLAB3T1.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\GitHub\LabPractices\OOPLAB3T1\OOPLAB3T1\obj\Debug\netcoreapp3.1\OOPLAB3T1.AssemblyInfo.cs
+C:\Users\DELL\Documents\GitHub\LabPractices\OOPLAB3T1\OOPLAB3T1\obj\Debug\netcoreapp3.1\OOPLAB3T1.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\LabPractices\OOPLAB3T1\OOPLAB3T1\bin\Debug\netcoreapp3.1\OOPLAB3T1.exe
+C:\Users\DELL\Documents\GitHub\LabPractices\OOPLAB3T1\OOPLAB3T1\bin\Debug\netcoreapp3.1\OOPLAB3T1.deps.json
+C:\Users\DELL\Documents\GitHub\LabPractices\OOPLAB3T1\OOPLAB3T1\bin\Debug\netcoreapp3.1\OOPLAB3T1.runtimeconfig.json
+C:\Users\DELL\Documents\GitHub\LabPractices\OOPLAB3T1\OOPLAB3T1\bin\Debug\netcoreapp3.1\OOPLAB3T1.runtimeconfig.dev.json
+C:\Users\DELL\Documents\GitHub\LabPractices\OOPLAB3T1\OOPLAB3T1\bin\Debug\netcoreapp3.1\OOPLAB3T1.dll
+C:\Users\DELL\Documents\GitHub\LabPractices\OOPLAB3T1\OOPLAB3T1\bin\Debug\netcoreapp3.1\OOPLAB3T1.pdb
+C:\Users\DELL\Documents\GitHub\LabPractices\OOPLAB3T1\OOPLAB3T1\obj\Debug\netcoreapp3.1\OOPLAB3T1.dll
+C:\Users\DELL\Documents\GitHub\LabPractices\OOPLAB3T1\OOPLAB3T1\obj\Debug\netcoreapp3.1\OOPLAB3T1.pdb
+C:\Users\DELL\Documents\GitHub\LabPractices\OOPLAB3T1\OOPLAB3T1\obj\Debug\netcoreapp3.1\OOPLAB3T1.genruntimeconfig.cache

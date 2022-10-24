@@ -1,0 +1,14 @@
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Class\Brocode Class\bin\Debug\netcoreapp3.1\Brocode Class.exe
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Class\Brocode Class\bin\Debug\netcoreapp3.1\Brocode Class.deps.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Class\Brocode Class\bin\Debug\netcoreapp3.1\Brocode Class.runtimeconfig.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Class\Brocode Class\bin\Debug\netcoreapp3.1\Brocode Class.runtimeconfig.dev.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Class\Brocode Class\bin\Debug\netcoreapp3.1\Brocode Class.dll
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Class\Brocode Class\bin\Debug\netcoreapp3.1\Brocode Class.pdb
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Class\Brocode Class\obj\Debug\netcoreapp3.1\Brocode Class.csproj.AssemblyReference.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Class\Brocode Class\obj\Debug\netcoreapp3.1\Brocode Class.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Class\Brocode Class\obj\Debug\netcoreapp3.1\Brocode Class.AssemblyInfoInputs.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Class\Brocode Class\obj\Debug\netcoreapp3.1\Brocode Class.AssemblyInfo.cs
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Class\Brocode Class\obj\Debug\netcoreapp3.1\Brocode Class.csproj.CoreCompileInputs.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Class\Brocode Class\obj\Debug\netcoreapp3.1\Brocode Class.dll
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Class\Brocode Class\obj\Debug\netcoreapp3.1\Brocode Class.pdb
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Class\Brocode Class\obj\Debug\netcoreapp3.1\Brocode Class.genruntimeconfig.cache

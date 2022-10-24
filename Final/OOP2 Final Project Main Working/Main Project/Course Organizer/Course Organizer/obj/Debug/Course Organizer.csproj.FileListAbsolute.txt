@@ -1,0 +1,135 @@
+G:\My Drive\University Stuff\Summer 22\OOP2[F]\Project Draft\Main Project\Course Organizer\Course Organizer\bin\Debug\Course Organizer.exe.config
+G:\My Drive\University Stuff\Summer 22\OOP2[F]\Project Draft\Main Project\Course Organizer\Course Organizer\bin\Debug\Course Organizer.exe
+G:\My Drive\University Stuff\Summer 22\OOP2[F]\Project Draft\Main Project\Course Organizer\Course Organizer\bin\Debug\Course Organizer.pdb
+G:\My Drive\University Stuff\Summer 22\OOP2[F]\Project Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course Organizer.csproj.AssemblyReference.cache
+G:\My Drive\University Stuff\Summer 22\OOP2[F]\Project Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Welcome.resources
+G:\My Drive\University Stuff\Summer 22\OOP2[F]\Project Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Properties.Resources.resources
+G:\My Drive\University Stuff\Summer 22\OOP2[F]\Project Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course Organizer.csproj.GenerateResource.cache
+G:\My Drive\University Stuff\Summer 22\OOP2[F]\Project Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course Organizer.csproj.CoreCompileInputs.cache
+G:\My Drive\University Stuff\Summer 22\OOP2[F]\Project Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course Organizer.exe
+G:\My Drive\University Stuff\Summer 22\OOP2[F]\Project Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course Organizer.pdb
+G:\My Drive\University Stuff\Summer 22\OOP2[F]\Project Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Signin_Form.resources
+G:\My Drive\University Stuff\Summer 22\OOP2[F]\Project Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Signup_Form.resources
+G:\My Drive\University Stuff\Summer 22\OOP2[F]\Project Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course Organizer.csproj.SuggestedBindingRedirects.cache
+G:\My Drive\University Stuff\Summer 22\OOP2[F]\Project Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.User_form.resources
+G:\My Drive\University Stuff\Summer 22\OOP2[F]\Project Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Form_Addcourse.resources
+G:\My Drive\University Stuff\Summer 22\OOP2[F]\Project Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Form6.resources
+C:\Users\Ashiq\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\bin\Debug\Course Organizer.exe.config
+C:\Users\Ashiq\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\bin\Debug\Course Organizer.exe
+C:\Users\Ashiq\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\bin\Debug\Course Organizer.pdb
+C:\Users\Ashiq\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course Organizer.csproj.AssemblyReference.cache
+C:\Users\Ashiq\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course Organizer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ashiq\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Welcome.resources
+C:\Users\Ashiq\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Signin_Form.resources
+C:\Users\Ashiq\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Signup_Form.resources
+C:\Users\Ashiq\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Form_Addcourse.resources
+C:\Users\Ashiq\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Properties.Resources.resources
+C:\Users\Ashiq\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course Organizer.csproj.GenerateResource.cache
+C:\Users\Ashiq\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course Organizer.csproj.CoreCompileInputs.cache
+C:\Users\Ashiq\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course Organizer.exe
+C:\Users\Ashiq\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course Organizer.pdb
+C:\Users\Ashiq\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Form_Browse.resources
+C:\Users\Ashiq\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Form_User.resources
+C:\Users\Ashiq\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Edit_Option.resources
+C:\Users\Ashiq\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Admin_Panel.resources
+C:\Users\Ashiq\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Course_Page.resources
+C:\Users\Ashiq\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Guest_User.resources
+C:\Users\Ashiq\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Progression1.resources
+C:\Users\Ashiq\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Progression_2.resources
+C:\Users\Ashiq\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Progression_3.resources
+C:\Users\DELL\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\bin\Debug\Course Organizer.exe.config
+C:\Users\DELL\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\bin\Debug\Course Organizer.exe
+C:\Users\DELL\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\bin\Debug\Course Organizer.pdb
+C:\Users\DELL\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course Organizer.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Admin_Panel.resources
+C:\Users\DELL\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Course_Page.resources
+C:\Users\DELL\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Edit_Option.resources
+C:\Users\DELL\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Guest_User.resources
+C:\Users\DELL\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Progression1.resources
+C:\Users\DELL\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Progression_2.resources
+C:\Users\DELL\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Progression_3.resources
+C:\Users\DELL\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Welcome.resources
+C:\Users\DELL\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Signin_Form.resources
+C:\Users\DELL\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Signup_Form.resources
+C:\Users\DELL\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Form_User.resources
+C:\Users\DELL\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Form_Addcourse.resources
+C:\Users\DELL\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Form_Browse.resources
+C:\Users\DELL\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Properties.Resources.resources
+C:\Users\DELL\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course Organizer.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course Organizer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course Organizer.exe
+C:\Users\DELL\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course Organizer.pdb
+C:\Users\DELL\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Guest_page_2.resources
+C:\Users\DELL\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Guest_page_3.resources
+C:\Users\DELL\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Guest_page_4.resources
+C:\Users\DELL\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Guest_page_5.resources
+C:\Users\DELL\Documents\OOP2 Final Project Main Draft\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Guest_page_6.resources
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\bin\Debug\Course Organizer.exe.config
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\bin\Debug\Course Organizer.exe
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\bin\Debug\Course Organizer.pdb
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course Organizer.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Admin_Panel.resources
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Course_Page.resources
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Edit_Option.resources
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Guest_page_2.resources
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Guest_page_3.resources
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Guest_page_4.resources
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Guest_page_5.resources
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Guest_page_6.resources
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Guest_User.resources
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Progression1.resources
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Progression_2.resources
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Progression_3.resources
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Welcome.resources
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Signin_Form.resources
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Signup_Form.resources
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Form_User.resources
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Form_Addcourse.resources
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Form_Browse.resources
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Properties.Resources.resources
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course Organizer.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course Organizer.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course Organizer.exe
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course Organizer.pdb
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\bin\Debug\Course Organizer.exe.config
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\bin\Debug\Course Organizer.exe
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\bin\Debug\Course Organizer.pdb
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course Organizer.csproj.AssemblyReference.cache
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course Organizer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Admin_Panel.resources
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Course_Page.resources
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Edit_Option.resources
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Guest_page_2.resources
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Guest_page_3.resources
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Guest_page_4.resources
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Guest_page_5.resources
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Guest_page_6.resources
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Guest_User.resources
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Progression1.resources
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Progression_2.resources
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Progression_3.resources
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Welcome.resources
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Signin_Form.resources
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Signup_Form.resources
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Form_User.resources
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Form_Addcourse.resources
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Form_Browse.resources
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Properties.Resources.resources
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course Organizer.csproj.GenerateResource.cache
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course Organizer.csproj.CoreCompileInputs.cache
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course Organizer.exe
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course Organizer.pdb
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Guest_page_7.resources
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Guest_page_7.resources
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Admin_Dashboard.resources
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.AdminPanelCourse.resources
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Admin_Dashboard.resources
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.AdminPanelCourse.resources
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Math5_courseinfo.resources
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Math5_Examinfo.resources
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Math5_Progress.resources
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Math5_topics.resources
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Math5_courseinfo.resources
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Math5_Examinfo.resources
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Math5_Progress.resources
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 Final Project Main Working\Main Project\Course Organizer\Course Organizer\obj\Debug\Course_Organizer.Math5_topics.resources

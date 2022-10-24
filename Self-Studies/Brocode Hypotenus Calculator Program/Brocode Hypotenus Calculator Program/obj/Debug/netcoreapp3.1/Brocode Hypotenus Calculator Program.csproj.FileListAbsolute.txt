@@ -1,0 +1,14 @@
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Hypotenus Calculator Program\Brocode Hypotenus Calculator Program\bin\Debug\netcoreapp3.1\Brocode Hypotenus Calculator Program.exe
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Hypotenus Calculator Program\Brocode Hypotenus Calculator Program\bin\Debug\netcoreapp3.1\Brocode Hypotenus Calculator Program.deps.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Hypotenus Calculator Program\Brocode Hypotenus Calculator Program\bin\Debug\netcoreapp3.1\Brocode Hypotenus Calculator Program.runtimeconfig.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Hypotenus Calculator Program\Brocode Hypotenus Calculator Program\bin\Debug\netcoreapp3.1\Brocode Hypotenus Calculator Program.runtimeconfig.dev.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Hypotenus Calculator Program\Brocode Hypotenus Calculator Program\bin\Debug\netcoreapp3.1\Brocode Hypotenus Calculator Program.dll
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Hypotenus Calculator Program\Brocode Hypotenus Calculator Program\bin\Debug\netcoreapp3.1\Brocode Hypotenus Calculator Program.pdb
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Hypotenus Calculator Program\Brocode Hypotenus Calculator Program\obj\Debug\netcoreapp3.1\Brocode Hypotenus Calculator Program.csproj.AssemblyReference.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Hypotenus Calculator Program\Brocode Hypotenus Calculator Program\obj\Debug\netcoreapp3.1\Brocode Hypotenus Calculator Program.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Hypotenus Calculator Program\Brocode Hypotenus Calculator Program\obj\Debug\netcoreapp3.1\Brocode Hypotenus Calculator Program.AssemblyInfoInputs.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Hypotenus Calculator Program\Brocode Hypotenus Calculator Program\obj\Debug\netcoreapp3.1\Brocode Hypotenus Calculator Program.AssemblyInfo.cs
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Hypotenus Calculator Program\Brocode Hypotenus Calculator Program\obj\Debug\netcoreapp3.1\Brocode Hypotenus Calculator Program.csproj.CoreCompileInputs.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Hypotenus Calculator Program\Brocode Hypotenus Calculator Program\obj\Debug\netcoreapp3.1\Brocode Hypotenus Calculator Program.dll
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Hypotenus Calculator Program\Brocode Hypotenus Calculator Program\obj\Debug\netcoreapp3.1\Brocode Hypotenus Calculator Program.pdb
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Hypotenus Calculator Program\Brocode Hypotenus Calculator Program\obj\Debug\netcoreapp3.1\Brocode Hypotenus Calculator Program.genruntimeconfig.cache

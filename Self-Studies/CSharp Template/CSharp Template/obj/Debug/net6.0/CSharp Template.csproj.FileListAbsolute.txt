@@ -1,0 +1,15 @@
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\CSharp Template\CSharp Template\bin\Debug\net6.0\CSharp Template.exe
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\CSharp Template\CSharp Template\bin\Debug\net6.0\CSharp Template.deps.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\CSharp Template\CSharp Template\bin\Debug\net6.0\CSharp Template.runtimeconfig.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\CSharp Template\CSharp Template\bin\Debug\net6.0\CSharp Template.dll
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\CSharp Template\CSharp Template\bin\Debug\net6.0\CSharp Template.pdb
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\CSharp Template\CSharp Template\obj\Debug\net6.0\CSharp Template.csproj.AssemblyReference.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\CSharp Template\CSharp Template\obj\Debug\net6.0\CSharp Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\CSharp Template\CSharp Template\obj\Debug\net6.0\CSharp Template.AssemblyInfoInputs.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\CSharp Template\CSharp Template\obj\Debug\net6.0\CSharp Template.AssemblyInfo.cs
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\CSharp Template\CSharp Template\obj\Debug\net6.0\CSharp Template.csproj.CoreCompileInputs.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\CSharp Template\CSharp Template\obj\Debug\net6.0\CSharp Template.dll
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\CSharp Template\CSharp Template\obj\Debug\net6.0\refint\CSharp Template.dll
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\CSharp Template\CSharp Template\obj\Debug\net6.0\CSharp Template.pdb
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\CSharp Template\CSharp Template\obj\Debug\net6.0\CSharp Template.genruntimeconfig.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\CSharp Template\CSharp Template\obj\Debug\net6.0\ref\CSharp Template.dll

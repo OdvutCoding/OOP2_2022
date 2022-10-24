@@ -1,0 +1,15 @@
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Pass By Ref\Pass By Ref\bin\Debug\net6.0\Pass By Ref.exe
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Pass By Ref\Pass By Ref\bin\Debug\net6.0\Pass By Ref.deps.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Pass By Ref\Pass By Ref\bin\Debug\net6.0\Pass By Ref.runtimeconfig.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Pass By Ref\Pass By Ref\bin\Debug\net6.0\Pass By Ref.dll
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Pass By Ref\Pass By Ref\bin\Debug\net6.0\Pass By Ref.pdb
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Pass By Ref\Pass By Ref\obj\Debug\net6.0\Pass By Ref.csproj.AssemblyReference.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Pass By Ref\Pass By Ref\obj\Debug\net6.0\Pass By Ref.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Pass By Ref\Pass By Ref\obj\Debug\net6.0\Pass By Ref.AssemblyInfoInputs.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Pass By Ref\Pass By Ref\obj\Debug\net6.0\Pass By Ref.AssemblyInfo.cs
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Pass By Ref\Pass By Ref\obj\Debug\net6.0\Pass By Ref.csproj.CoreCompileInputs.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Pass By Ref\Pass By Ref\obj\Debug\net6.0\Pass By Ref.dll
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Pass By Ref\Pass By Ref\obj\Debug\net6.0\refint\Pass By Ref.dll
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Pass By Ref\Pass By Ref\obj\Debug\net6.0\Pass By Ref.pdb
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Pass By Ref\Pass By Ref\obj\Debug\net6.0\Pass By Ref.genruntimeconfig.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Pass By Ref\Pass By Ref\obj\Debug\net6.0\ref\Pass By Ref.dll

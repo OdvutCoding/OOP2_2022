@@ -1,0 +1,13 @@
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Inheritance\Brocode Inheritance\bin\Debug\netcoreapp3.1\Brocode Inheritance.exe
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Inheritance\Brocode Inheritance\bin\Debug\netcoreapp3.1\Brocode Inheritance.deps.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Inheritance\Brocode Inheritance\bin\Debug\netcoreapp3.1\Brocode Inheritance.runtimeconfig.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Inheritance\Brocode Inheritance\bin\Debug\netcoreapp3.1\Brocode Inheritance.runtimeconfig.dev.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Inheritance\Brocode Inheritance\bin\Debug\netcoreapp3.1\Brocode Inheritance.dll
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Inheritance\Brocode Inheritance\bin\Debug\netcoreapp3.1\Brocode Inheritance.pdb
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Inheritance\Brocode Inheritance\obj\Debug\netcoreapp3.1\Brocode Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Inheritance\Brocode Inheritance\obj\Debug\netcoreapp3.1\Brocode Inheritance.AssemblyInfoInputs.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Inheritance\Brocode Inheritance\obj\Debug\netcoreapp3.1\Brocode Inheritance.AssemblyInfo.cs
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Inheritance\Brocode Inheritance\obj\Debug\netcoreapp3.1\Brocode Inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Inheritance\Brocode Inheritance\obj\Debug\netcoreapp3.1\Brocode Inheritance.dll
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Inheritance\Brocode Inheritance\obj\Debug\netcoreapp3.1\Brocode Inheritance.pdb
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Inheritance\Brocode Inheritance\obj\Debug\netcoreapp3.1\Brocode Inheritance.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 LAB2 Final Tasks\OOP2 LAB2 Final Tasks\bin\Debug\OOP2 LAB2 Final Tasks.exe.config
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 LAB2 Final Tasks\OOP2 LAB2 Final Tasks\bin\Debug\OOP2 LAB2 Final Tasks.exe
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 LAB2 Final Tasks\OOP2 LAB2 Final Tasks\bin\Debug\OOP2 LAB2 Final Tasks.pdb
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 LAB2 Final Tasks\OOP2 LAB2 Final Tasks\obj\Debug\OOP2 LAB2 Final Tasks.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 LAB2 Final Tasks\OOP2 LAB2 Final Tasks\obj\Debug\OOP2_LAB2_Final_Tasks.Form1.resources
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 LAB2 Final Tasks\OOP2 LAB2 Final Tasks\obj\Debug\OOP2_LAB2_Final_Tasks.Properties.Resources.resources
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 LAB2 Final Tasks\OOP2 LAB2 Final Tasks\obj\Debug\OOP2 LAB2 Final Tasks.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 LAB2 Final Tasks\OOP2 LAB2 Final Tasks\obj\Debug\OOP2 LAB2 Final Tasks.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 LAB2 Final Tasks\OOP2 LAB2 Final Tasks\obj\Debug\OOP2 LAB2 Final Tasks.exe
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 LAB2 Final Tasks\OOP2 LAB2 Final Tasks\obj\Debug\OOP2 LAB2 Final Tasks.pdb
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 LAB2 Final Tasks\OOP2 LAB2 Final Tasks\obj\Debug\OOP2_LAB2_Final_Tasks.Form2.resources

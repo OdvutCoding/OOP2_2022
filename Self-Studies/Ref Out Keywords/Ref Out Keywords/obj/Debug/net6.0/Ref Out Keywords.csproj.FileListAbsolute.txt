@@ -1,0 +1,15 @@
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Ref Out Keywords\Ref Out Keywords\bin\Debug\net6.0\Ref Out Keywords.exe
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Ref Out Keywords\Ref Out Keywords\bin\Debug\net6.0\Ref Out Keywords.deps.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Ref Out Keywords\Ref Out Keywords\bin\Debug\net6.0\Ref Out Keywords.runtimeconfig.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Ref Out Keywords\Ref Out Keywords\bin\Debug\net6.0\Ref Out Keywords.dll
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Ref Out Keywords\Ref Out Keywords\bin\Debug\net6.0\Ref Out Keywords.pdb
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Ref Out Keywords\Ref Out Keywords\obj\Debug\net6.0\Ref Out Keywords.csproj.AssemblyReference.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Ref Out Keywords\Ref Out Keywords\obj\Debug\net6.0\Ref Out Keywords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Ref Out Keywords\Ref Out Keywords\obj\Debug\net6.0\Ref Out Keywords.AssemblyInfoInputs.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Ref Out Keywords\Ref Out Keywords\obj\Debug\net6.0\Ref Out Keywords.AssemblyInfo.cs
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Ref Out Keywords\Ref Out Keywords\obj\Debug\net6.0\Ref Out Keywords.csproj.CoreCompileInputs.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Ref Out Keywords\Ref Out Keywords\obj\Debug\net6.0\Ref Out Keywords.dll
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Ref Out Keywords\Ref Out Keywords\obj\Debug\net6.0\refint\Ref Out Keywords.dll
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Ref Out Keywords\Ref Out Keywords\obj\Debug\net6.0\Ref Out Keywords.pdb
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Ref Out Keywords\Ref Out Keywords\obj\Debug\net6.0\Ref Out Keywords.genruntimeconfig.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Ref Out Keywords\Ref Out Keywords\obj\Debug\net6.0\ref\Ref Out Keywords.dll

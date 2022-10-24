@@ -1,0 +1,13 @@
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Polymorphism\Brocode Polymorphism\obj\Debug\netcoreapp3.1\Brocode Polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Polymorphism\Brocode Polymorphism\obj\Debug\netcoreapp3.1\Brocode Polymorphism.AssemblyInfoInputs.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Polymorphism\Brocode Polymorphism\obj\Debug\netcoreapp3.1\Brocode Polymorphism.AssemblyInfo.cs
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Polymorphism\Brocode Polymorphism\obj\Debug\netcoreapp3.1\Brocode Polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Polymorphism\Brocode Polymorphism\bin\Debug\netcoreapp3.1\Brocode Polymorphism.exe
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Polymorphism\Brocode Polymorphism\bin\Debug\netcoreapp3.1\Brocode Polymorphism.deps.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Polymorphism\Brocode Polymorphism\bin\Debug\netcoreapp3.1\Brocode Polymorphism.runtimeconfig.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Polymorphism\Brocode Polymorphism\bin\Debug\netcoreapp3.1\Brocode Polymorphism.runtimeconfig.dev.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Polymorphism\Brocode Polymorphism\bin\Debug\netcoreapp3.1\Brocode Polymorphism.dll
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Polymorphism\Brocode Polymorphism\bin\Debug\netcoreapp3.1\Brocode Polymorphism.pdb
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Polymorphism\Brocode Polymorphism\obj\Debug\netcoreapp3.1\Brocode Polymorphism.dll
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Polymorphism\Brocode Polymorphism\obj\Debug\netcoreapp3.1\Brocode Polymorphism.pdb
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Polymorphism\Brocode Polymorphism\obj\Debug\netcoreapp3.1\Brocode Polymorphism.genruntimeconfig.cache

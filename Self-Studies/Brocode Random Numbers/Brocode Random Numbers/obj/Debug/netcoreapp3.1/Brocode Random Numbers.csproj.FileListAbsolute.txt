@@ -1,0 +1,14 @@
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Random Numbers\Brocode Random Numbers\bin\Debug\netcoreapp3.1\Brocode Random Numbers.exe
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Random Numbers\Brocode Random Numbers\bin\Debug\netcoreapp3.1\Brocode Random Numbers.deps.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Random Numbers\Brocode Random Numbers\bin\Debug\netcoreapp3.1\Brocode Random Numbers.runtimeconfig.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Random Numbers\Brocode Random Numbers\bin\Debug\netcoreapp3.1\Brocode Random Numbers.runtimeconfig.dev.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Random Numbers\Brocode Random Numbers\bin\Debug\netcoreapp3.1\Brocode Random Numbers.dll
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Random Numbers\Brocode Random Numbers\bin\Debug\netcoreapp3.1\Brocode Random Numbers.pdb
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Random Numbers\Brocode Random Numbers\obj\Debug\netcoreapp3.1\Brocode Random Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Random Numbers\Brocode Random Numbers\obj\Debug\netcoreapp3.1\Brocode Random Numbers.AssemblyInfoInputs.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Random Numbers\Brocode Random Numbers\obj\Debug\netcoreapp3.1\Brocode Random Numbers.AssemblyInfo.cs
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Random Numbers\Brocode Random Numbers\obj\Debug\netcoreapp3.1\Brocode Random Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Random Numbers\Brocode Random Numbers\obj\Debug\netcoreapp3.1\Brocode Random Numbers.dll
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Random Numbers\Brocode Random Numbers\obj\Debug\netcoreapp3.1\Brocode Random Numbers.pdb
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Random Numbers\Brocode Random Numbers\obj\Debug\netcoreapp3.1\Brocode Random Numbers.genruntimeconfig.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Brocode Random Numbers\Brocode Random Numbers\obj\Debug\netcoreapp3.1\Brocode Random Numbers.csproj.AssemblyReference.cache

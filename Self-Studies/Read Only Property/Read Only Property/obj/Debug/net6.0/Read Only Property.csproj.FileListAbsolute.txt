@@ -1,0 +1,15 @@
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Read Only Property\Read Only Property\bin\Debug\net6.0\Read Only Property.exe
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Read Only Property\Read Only Property\bin\Debug\net6.0\Read Only Property.deps.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Read Only Property\Read Only Property\bin\Debug\net6.0\Read Only Property.runtimeconfig.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Read Only Property\Read Only Property\bin\Debug\net6.0\Read Only Property.dll
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Read Only Property\Read Only Property\bin\Debug\net6.0\Read Only Property.pdb
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Read Only Property\Read Only Property\obj\Debug\net6.0\Read Only Property.csproj.AssemblyReference.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Read Only Property\Read Only Property\obj\Debug\net6.0\Read Only Property.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Read Only Property\Read Only Property\obj\Debug\net6.0\Read Only Property.AssemblyInfoInputs.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Read Only Property\Read Only Property\obj\Debug\net6.0\Read Only Property.AssemblyInfo.cs
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Read Only Property\Read Only Property\obj\Debug\net6.0\Read Only Property.csproj.CoreCompileInputs.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Read Only Property\Read Only Property\obj\Debug\net6.0\Read Only Property.dll
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Read Only Property\Read Only Property\obj\Debug\net6.0\refint\Read Only Property.dll
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Read Only Property\Read Only Property\obj\Debug\net6.0\Read Only Property.pdb
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Read Only Property\Read Only Property\obj\Debug\net6.0\Read Only Property.genruntimeconfig.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\Read Only Property\Read Only Property\obj\Debug\net6.0\ref\Read Only Property.dll

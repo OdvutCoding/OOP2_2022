@@ -1,0 +1,14 @@
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\BroCode UserInput\BroCode UserInput\bin\Debug\netcoreapp3.1\BroCode UserInput.exe
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\BroCode UserInput\BroCode UserInput\bin\Debug\netcoreapp3.1\BroCode UserInput.deps.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\BroCode UserInput\BroCode UserInput\bin\Debug\netcoreapp3.1\BroCode UserInput.runtimeconfig.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\BroCode UserInput\BroCode UserInput\bin\Debug\netcoreapp3.1\BroCode UserInput.runtimeconfig.dev.json
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\BroCode UserInput\BroCode UserInput\bin\Debug\netcoreapp3.1\BroCode UserInput.dll
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\BroCode UserInput\BroCode UserInput\bin\Debug\netcoreapp3.1\BroCode UserInput.pdb
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\BroCode UserInput\BroCode UserInput\obj\Debug\netcoreapp3.1\BroCode UserInput.csproj.AssemblyReference.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\BroCode UserInput\BroCode UserInput\obj\Debug\netcoreapp3.1\BroCode UserInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\BroCode UserInput\BroCode UserInput\obj\Debug\netcoreapp3.1\BroCode UserInput.AssemblyInfoInputs.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\BroCode UserInput\BroCode UserInput\obj\Debug\netcoreapp3.1\BroCode UserInput.AssemblyInfo.cs
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\BroCode UserInput\BroCode UserInput\obj\Debug\netcoreapp3.1\BroCode UserInput.csproj.CoreCompileInputs.cache
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\BroCode UserInput\BroCode UserInput\obj\Debug\netcoreapp3.1\BroCode UserInput.dll
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\BroCode UserInput\BroCode UserInput\obj\Debug\netcoreapp3.1\BroCode UserInput.pdb
+C:\Users\Ashiq\Documents\GitHub Repository\SelfStudy\BroCode UserInput\BroCode UserInput\obj\Debug\netcoreapp3.1\BroCode UserInput.genruntimeconfig.cache

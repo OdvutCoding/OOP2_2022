@@ -1,0 +1,14 @@
+C:\Users\DELL\Documents\GitHub\LabPractices\OOPL3T2\OOPL3T2\bin\Debug\netcoreapp3.1\OOPL3T2.exe
+C:\Users\DELL\Documents\GitHub\LabPractices\OOPL3T2\OOPL3T2\bin\Debug\netcoreapp3.1\OOPL3T2.deps.json
+C:\Users\DELL\Documents\GitHub\LabPractices\OOPL3T2\OOPL3T2\bin\Debug\netcoreapp3.1\OOPL3T2.runtimeconfig.json
+C:\Users\DELL\Documents\GitHub\LabPractices\OOPL3T2\OOPL3T2\bin\Debug\netcoreapp3.1\OOPL3T2.runtimeconfig.dev.json
+C:\Users\DELL\Documents\GitHub\LabPractices\OOPL3T2\OOPL3T2\bin\Debug\netcoreapp3.1\OOPL3T2.dll
+C:\Users\DELL\Documents\GitHub\LabPractices\OOPL3T2\OOPL3T2\bin\Debug\netcoreapp3.1\OOPL3T2.pdb
+C:\Users\DELL\Documents\GitHub\LabPractices\OOPL3T2\OOPL3T2\obj\Debug\netcoreapp3.1\OOPL3T2.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\LabPractices\OOPL3T2\OOPL3T2\obj\Debug\netcoreapp3.1\OOPL3T2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\GitHub\LabPractices\OOPL3T2\OOPL3T2\obj\Debug\netcoreapp3.1\OOPL3T2.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\GitHub\LabPractices\OOPL3T2\OOPL3T2\obj\Debug\netcoreapp3.1\OOPL3T2.AssemblyInfo.cs
+C:\Users\DELL\Documents\GitHub\LabPractices\OOPL3T2\OOPL3T2\obj\Debug\netcoreapp3.1\OOPL3T2.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\LabPractices\OOPL3T2\OOPL3T2\obj\Debug\netcoreapp3.1\OOPL3T2.dll
+C:\Users\DELL\Documents\GitHub\LabPractices\OOPL3T2\OOPL3T2\obj\Debug\netcoreapp3.1\OOPL3T2.pdb
+C:\Users\DELL\Documents\GitHub\LabPractices\OOPL3T2\OOPL3T2\obj\Debug\netcoreapp3.1\OOPL3T2.genruntimeconfig.cache

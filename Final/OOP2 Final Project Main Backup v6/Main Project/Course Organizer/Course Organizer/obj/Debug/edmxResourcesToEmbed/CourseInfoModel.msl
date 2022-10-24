@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="CourseInfoStoreContainer" CdmEntityContainer="Course_OrganizerEntities">
+    <EntitySetMapping Name="Course_info">
+      <EntityTypeMapping TypeName="CourseInfo.Course_info">
+        <MappingFragment StoreEntitySet="Course_info">
+          <ScalarProperty Name="CourseID" ColumnName="CourseID" />
+          <ScalarProperty Name="CourseName" ColumnName="CourseName" />
+          <ScalarProperty Name="Section" ColumnName="Section" />
+          <ScalarProperty Name="Semester" ColumnName="Semester" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

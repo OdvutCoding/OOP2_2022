@@ -1,0 +1,14 @@
+C:\Users\DELL\Documents\GitHub\LabPractices\PropertyDeclaration\PropertyDeclaration\bin\Debug\netcoreapp3.1\PropertyDeclaration.exe
+C:\Users\DELL\Documents\GitHub\LabPractices\PropertyDeclaration\PropertyDeclaration\bin\Debug\netcoreapp3.1\PropertyDeclaration.deps.json
+C:\Users\DELL\Documents\GitHub\LabPractices\PropertyDeclaration\PropertyDeclaration\bin\Debug\netcoreapp3.1\PropertyDeclaration.runtimeconfig.json
+C:\Users\DELL\Documents\GitHub\LabPractices\PropertyDeclaration\PropertyDeclaration\bin\Debug\netcoreapp3.1\PropertyDeclaration.runtimeconfig.dev.json
+C:\Users\DELL\Documents\GitHub\LabPractices\PropertyDeclaration\PropertyDeclaration\bin\Debug\netcoreapp3.1\PropertyDeclaration.dll
+C:\Users\DELL\Documents\GitHub\LabPractices\PropertyDeclaration\PropertyDeclaration\bin\Debug\netcoreapp3.1\PropertyDeclaration.pdb
+C:\Users\DELL\Documents\GitHub\LabPractices\PropertyDeclaration\PropertyDeclaration\obj\Debug\netcoreapp3.1\PropertyDeclaration.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\LabPractices\PropertyDeclaration\PropertyDeclaration\obj\Debug\netcoreapp3.1\PropertyDeclaration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\Documents\GitHub\LabPractices\PropertyDeclaration\PropertyDeclaration\obj\Debug\netcoreapp3.1\PropertyDeclaration.AssemblyInfoInputs.cache
+C:\Users\DELL\Documents\GitHub\LabPractices\PropertyDeclaration\PropertyDeclaration\obj\Debug\netcoreapp3.1\PropertyDeclaration.AssemblyInfo.cs
+C:\Users\DELL\Documents\GitHub\LabPractices\PropertyDeclaration\PropertyDeclaration\obj\Debug\netcoreapp3.1\PropertyDeclaration.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\LabPractices\PropertyDeclaration\PropertyDeclaration\obj\Debug\netcoreapp3.1\PropertyDeclaration.dll
+C:\Users\DELL\Documents\GitHub\LabPractices\PropertyDeclaration\PropertyDeclaration\obj\Debug\netcoreapp3.1\PropertyDeclaration.pdb
+C:\Users\DELL\Documents\GitHub\LabPractices\PropertyDeclaration\PropertyDeclaration\obj\Debug\netcoreapp3.1\PropertyDeclaration.genruntimeconfig.cache

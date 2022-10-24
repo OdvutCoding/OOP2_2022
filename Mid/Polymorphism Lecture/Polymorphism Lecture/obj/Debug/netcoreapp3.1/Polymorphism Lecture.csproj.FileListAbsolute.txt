@@ -1,0 +1,14 @@
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\Polymorphism Lecture\Polymorphism Lecture\bin\Debug\netcoreapp3.1\Polymorphism Lecture.exe
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\Polymorphism Lecture\Polymorphism Lecture\bin\Debug\netcoreapp3.1\Polymorphism Lecture.deps.json
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\Polymorphism Lecture\Polymorphism Lecture\bin\Debug\netcoreapp3.1\Polymorphism Lecture.runtimeconfig.json
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\Polymorphism Lecture\Polymorphism Lecture\bin\Debug\netcoreapp3.1\Polymorphism Lecture.runtimeconfig.dev.json
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\Polymorphism Lecture\Polymorphism Lecture\bin\Debug\netcoreapp3.1\Polymorphism Lecture.dll
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\Polymorphism Lecture\Polymorphism Lecture\bin\Debug\netcoreapp3.1\Polymorphism Lecture.pdb
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\Polymorphism Lecture\Polymorphism Lecture\obj\Debug\netcoreapp3.1\Polymorphism Lecture.csproj.AssemblyReference.cache
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\Polymorphism Lecture\Polymorphism Lecture\obj\Debug\netcoreapp3.1\Polymorphism Lecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\Polymorphism Lecture\Polymorphism Lecture\obj\Debug\netcoreapp3.1\Polymorphism Lecture.AssemblyInfoInputs.cache
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\Polymorphism Lecture\Polymorphism Lecture\obj\Debug\netcoreapp3.1\Polymorphism Lecture.AssemblyInfo.cs
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\Polymorphism Lecture\Polymorphism Lecture\obj\Debug\netcoreapp3.1\Polymorphism Lecture.csproj.CoreCompileInputs.cache
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\Polymorphism Lecture\Polymorphism Lecture\obj\Debug\netcoreapp3.1\Polymorphism Lecture.dll
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\Polymorphism Lecture\Polymorphism Lecture\obj\Debug\netcoreapp3.1\Polymorphism Lecture.pdb
+C:\Users\Ashiq\Documents\GitHub Repository\LabPractices\Polymorphism Lecture\Polymorphism Lecture\obj\Debug\netcoreapp3.1\Polymorphism Lecture.genruntimeconfig.cache

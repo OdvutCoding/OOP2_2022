@@ -1,0 +1,10 @@
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 LAB1 Windows Forms basics\OOP2 LAB1 Windows Forms basics\bin\Debug\OOP2 LAB1 Windows Forms basics.exe.config
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 LAB1 Windows Forms basics\OOP2 LAB1 Windows Forms basics\bin\Debug\OOP2 LAB1 Windows Forms basics.exe
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 LAB1 Windows Forms basics\OOP2 LAB1 Windows Forms basics\bin\Debug\OOP2 LAB1 Windows Forms basics.pdb
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 LAB1 Windows Forms basics\OOP2 LAB1 Windows Forms basics\obj\Debug\OOP2 LAB1 Windows Forms basics.csproj.AssemblyReference.cache
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 LAB1 Windows Forms basics\OOP2 LAB1 Windows Forms basics\obj\Debug\OOP2_LAB1_Windows_Forms_basics.Properties.Resources.resources
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 LAB1 Windows Forms basics\OOP2 LAB1 Windows Forms basics\obj\Debug\OOP2 LAB1 Windows Forms basics.csproj.GenerateResource.cache
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 LAB1 Windows Forms basics\OOP2 LAB1 Windows Forms basics\obj\Debug\OOP2 LAB1 Windows Forms basics.csproj.CoreCompileInputs.cache
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 LAB1 Windows Forms basics\OOP2 LAB1 Windows Forms basics\obj\Debug\OOP2 LAB1 Windows Forms basics.exe
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 LAB1 Windows Forms basics\OOP2 LAB1 Windows Forms basics\obj\Debug\OOP2 LAB1 Windows Forms basics.pdb
+C:\Users\DELL\Documents\GitHub\LabPractices\OOP2 LAB1 Windows Forms basics\OOP2 LAB1 Windows Forms basics\obj\Debug\OOP2_LAB1_Windows_Forms_basics.PizzaPalace.resources
